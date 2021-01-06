@@ -1,0 +1,42 @@
+body {
+  background-position:  center  center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+ opacity: 250%;
+ margin: 1%;
+}
+
+ h1 {
+   text-align: center;
+ }
+
+
+.square{
+  border: solid;
+  color: red;
+  margin-left: 5px;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 425px;
+  height: 250px;
+  float: left;
+}
+
+.title{
+  border: solid;
+  color: BLACK;
+  width: 20%;
+  height: 20%;
+  margin-top: 1PX;
+  margin-left: 332px;
+  margin-right: none;
+  text-align: center;
+}
+
+p{
+  text-align: justify;
+  margin-left: 4px;
+  margin-right: 4px;
+}
